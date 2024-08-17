@@ -1,5 +1,5 @@
 # %% [code] {"execution":{"iopub.status.busy":"2024-08-17T20:15:22.918146Z","iopub.execute_input":"2024-08-17T20:15:22.918960Z","iopub.status.idle":"2024-08-17T20:15:22.923751Z","shell.execute_reply.started":"2024-08-17T20:15:22.918922Z","shell.execute_reply":"2024-08-17T20:15:22.922279Z"}}
-def sum(a,b):
+def add(a,b):
     return a+b
     
 
